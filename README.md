@@ -1,2 +1,2 @@
-# CIS300-S-26-Simmons
+# CIS300-S26-Simmons
 class
